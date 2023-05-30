@@ -6,7 +6,9 @@ Unstandardized Data”, and “Feature Selection based on Features Reduction alg
 Features Correlation method” with Regex (Regular Expression) method and Python
 programming language in Google Colab platform.
 
-**Project Details :**
+<br>
+
+#**Project Details :**
 
 **Data Preprocessing Project - 1**
 
